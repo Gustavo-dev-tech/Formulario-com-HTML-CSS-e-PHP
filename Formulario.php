@@ -8,9 +8,8 @@
 </head>
 <body>
     <h1>Resultado do seu alistamento militar</h1>
-</body>
-</html>
 
+    <div>
 <?php
     $nome = $_POST["nome"];
     $idade = $_POST["idade"];
@@ -29,4 +28,10 @@
                         }
                     }
             }
+  
+            
+
 ?>
+    </div>
+</body>
+</html>

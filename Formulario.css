@@ -3,9 +3,12 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     color: #333;
     text-align: center;
-    margin-bottom: 20px;
+    
 }
-
+div{
+    text-align: center;
+    margin: auto;
+}
 
 input {
     
@@ -17,6 +20,7 @@ input {
     
 }
 .AUTORIZADO {
+    text-align: center;
     font-size: 1.5em;
     font-family: Arial, Helvetica, sans-serif;
     color: green;
